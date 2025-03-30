@@ -1,0 +1,30 @@
+[
+    {
+        "clave": "TAM",
+        "nombre": "Temperatura Ambiental"
+    },
+    {
+        "clave": "TBB",
+        "nombre": "Temperatura Bebe"
+    },
+    {
+        "clave": "HAM",
+        "nombre": "Humedad Ambiental"
+    },
+    {
+        "clave": "VRB",
+        "nombre": "Vibracion"
+    },
+    {
+        "clave": "SON",
+        "nombre": "Sonido"
+    },
+    {
+        "clave": "PRE",
+        "nombre": "Presencia"
+    },
+    {
+        "clave": "LDR",
+        "nombre": "Luz"
+    }
+]
